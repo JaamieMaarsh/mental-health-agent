@@ -1,4 +1,5 @@
-This project is a conversational mental health assistant powered by LangChain, OpenAI, and Retrieval-Augmented Generation (RAG). It provides supportive and informative responses based on user queries related to mental health topics.
+## Mental health solver agent
+This project is an extension of the conversational mental health assistant powered by LangChain, OpenAI, and Retrieval-Augmented Generation (RAG). It provides supportive and informative responses based on user queries related to mental health topics.
 
 ## 💻 Features
 
