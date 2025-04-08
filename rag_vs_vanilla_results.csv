@@ -1,0 +1,79 @@
+Question,RAG Response,Vanilla LLM Response
+Why might someone be eating too much lately?,"Someone might be eating too much lately due to a variety of reasons. These could include eating disorders, emotional stress, anxiety, physical conditions, or lifestyle changes.","1. Stress: Stress can lead to overeating as a coping mechanism. 
+
+2. Boredom: People often eat more when they have nothing else to do.
+
+3. Emotional Issues: Depression, anxiety, and other emotional problems can lead to overeating.
+
+4. Lack of Sleep: Sleep deprivation can increase hunger and appetite.
+
+5. Social Influence: Eating more when around others who are also eating a lot.
+
+6. Certain Medications: Some medications can increase appetite.
+
+7. Hormonal Imbalances: Certain hormonal imbalances can lead to increased hunger.
+
+8. Lack of Nutrients: If the body is not getting enough nutrients, it may crave more food.
+
+9. Eating Disorders: Conditions like binge eating disorder can cause someone to eat excessively.
+
+10. Increased Physical Activity: If someone has recently started a new exercise regimen, they may be eating more to compensate for the extra calories burned.
+
+11. Pregnancy: Pregnant women often have increased appetites.
+
+12. Growth Spurts: Children and teenagers may eat more during periods of rapid growth. 
+
+13. Quitting Smoking: Nicotine withdrawal can lead to increased appetite."
+What are the symptoms of binge-eating disorder?,"Binge-eating disorder is characterized by unhealthy eating behaviors such as consuming large amounts of food rapidly. This disorder can lead to serious health issues such as obesity, type 2 diabetes, cardiovascular problems, gastrointestinal symptoms, dehydration, electrolyte imbalance, thinning bones, anemia, heart damage, and multiple organ failure. Anyone exhibiting these symptoms should seek medical help.","1. Eating unusually large amounts of food in a specific amount of time, such as over a two-hour period.
+2. Feeling that your eating behavior is out of control.
+3. Eating even when you're full or not hungry.
+4. Eating rapidly during binge episodes.
+5. Eating until you're uncomfortably full.
+6. Frequently eating alone or in secret.
+7. Feeling distressed, ashamed, or guilty about your eating.
+8. Frequently dieting, possibly without weight loss.
+9. Loss of control over how much you eat.
+10. Eating even when you are not hungry or eating to the point of discomfort.
+11. Experiencing feelings of distress, such as shame, disgust or guilt, when thinking about the binge-eating behavior.
+12. No use of purging behaviors, such as calorie restriction, vomiting, excessive exercise or laxative or diuretic use, to compensate for the binging."
+How can I manage anxiety before an exam?,"There are several techniques to manage anxiety before an exam. These include stress-relieving exercises and activities such as deep breathing, visualization, walking, journaling, and talking with trusted individuals. It's also important to understand your stress triggers and use coping techniques like maintaining a healthy lifestyle, limiting caffeine, and challenging negative thoughts. If these strategies are not enough, it's recommended to seek additional help.","1. Preparation: The best way to reduce anxiety is to prepare well for the exam. Make a study schedule and stick to it. Review your notes regularly and practice problems or questions.
+
+2. Healthy Lifestyle: Maintain a healthy lifestyle. Eat a balanced diet, exercise regularly, and get enough sleep. Avoid caffeine and other stimulants that can increase anxiety.
+
+3. Relaxation Techniques: Practice relaxation techniques such as deep breathing, meditation, or yoga. These can help reduce stress and anxiety.
+
+4. Positive Thinking: Keep a positive attitude. Remind yourself that it's okay to make mistakes and that one exam won't determine your entire future.
+
+5. Breaks: Take regular breaks during your study sessions. This can help prevent burnout and reduce anxiety.
+
+6. Practice Tests: Take practice tests to familiarize yourself with the format of the exam. This can help reduce anxiety on the day of the exam.
+
+7. Seek Support: Talk to friends, family, or a counselor about your anxiety. They can provide support and advice.
+
+8. Time Management: Make sure to arrive early on the day of the exam so you don't feel rushed. 
+
+9. Visualization: Visualize yourself doing well on the exam. This can help boost your confidence and reduce anxiety.
+
+10. Stay Hydrated: Dehydration can cause fatigue and anxiety, so make sure to drink plenty of water.
+
+Remember, it's normal to feel some anxiety before an exam. However, if your anxiety is severe or interfering with your ability to study or take the exam, consider seeking professional help."
+What does emotional eating mean?,Agent stopped due to iteration limit or time limit.,"Emotional eating refers to a behavior where individuals eat not because they are hungry, but as a way to suppress or soothe negative emotions such as stress, anger, fear, boredom, sadness, or loneliness. This can involve eating comfort foods, especially when they are feeling upset, anxious, or depressed. It can lead to overeating and is often a barrier to weight loss and healthy eating habits."
+How does stress affect sleep?,"Stress can lead to sleep loss and other sleep issues. It negatively impacts both mental and physical health, causing symptoms such as worry, tension, headaches, body pain, and high blood pressure. These symptoms can make it difficult to fall asleep or stay asleep.","Stress can significantly affect sleep in several ways:
+
+1. Difficulty Falling Asleep: High levels of stress can lead to increased anxiety and restlessness, making it difficult to fall asleep.
+
+2. Interrupted Sleep: Stress can cause you to wake up frequently during the night, leading to interrupted sleep.
+
+3. Nightmares: Stress can also lead to nightmares or disturbing dreams, which can disrupt your sleep.
+
+4. Insomnia: Chronic stress can lead to insomnia, a sleep disorder characterized by difficulty falling or staying asleep.
+
+5. Decreased Sleep Quality: Even if you manage to sleep for a sufficient amount of time, stress can decrease the quality of your sleep, making you feel less rested upon waking up.
+
+6. Sleep Disorders: Prolonged stress can contribute to sleep disorders such as sleep apnea, narcolepsy, or restless leg syndrome.
+
+7. Changes in Sleep Patterns: Stress can also lead to changes in your sleep patterns, such as sleeping too much or too little.
+
+8. Physical Discomfort: Stress can cause physical discomfort, such as headaches or muscle tension, which can make it harder to fall asleep or stay asleep. 
+
+Overall, stress can lead to a vicious cycle where lack of sleep causes more stress, which in turn leads to further sleep problems."
